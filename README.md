@@ -1,1 +1,1 @@
-(In progress) The goal is to serve as a complete E-commerce solution. The platform features both seller and customer accounts, and database schemas for an extensive range of product categories.
+(in progress) My attempt at a complete E-commerce software solution with an extensive data models, that captures every functionality an enterprise-grade software must offer
