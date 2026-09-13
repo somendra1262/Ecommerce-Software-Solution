@@ -11,7 +11,8 @@
 <img width="752" height="551" alt="product-vendor-ER-diagram" src="https://github.com/user-attachments/assets/c2d6181d-4d83-4200-8c80-42426e45fbc8" />
 
 <br>
-<img width="589" height="181" alt="review-rating" src="https://github.com/user-attachments/assets/6f442e3e-f335-4280-a329-d4057dfc3a6a" />
+<img width="594" height="501" alt="review-and-rating-ER-diagram" src="https://github.com/user-attachments/assets/670e1c8d-70e0-4222-9009-e9ca91259281" />
+
 
 
 
